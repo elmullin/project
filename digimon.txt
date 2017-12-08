@@ -163,7 +163,7 @@ Dracomon
 Veedramon
 Thunderbirdmon
 Ponchomon
-MegaDarknessBagramon (Giant)[2]
+MegaDarknessBagramon
 Frigimon
 Kokatorimon
 Peacockmon
@@ -221,7 +221,7 @@ MegaMusoKnightmon
 Luminamon
 Bakemon
 Beastmon
-Burgermon (Champion)
+Burgermon
 PrinceMamemon
 Raijinmon
 Dodomon
@@ -351,7 +351,7 @@ Parasimon
 Manbomon
 Chaosmon
 Aquilamon
-SuperDarkKnightmon[1]
+SuperDarkKnightmon
 Pandamon
 BlackMetalGarurumon
 Duramon
@@ -375,7 +375,7 @@ Yuramon
 BlackGaogamon
 Kyukimon
 Wisemon
-CannonBeemon (Aircraft Carrier)[1]
+CannonBeemon
 Anubismon
 DotFalcomon
 Hi-VisionMonitamon
@@ -397,7 +397,7 @@ Mekanorimon
 Sagittarimon
 Kiimon
 Azulongmon
-ShootingStarmon[1]
+ShootingStarmon
 Frimon
 Reppamon
 Loweemon
@@ -674,7 +674,7 @@ Grumblemon
 Dominimon
 Lucemon
 Gaiamon
-BlackKingNumemon[1]
+BlackKingNumemon
 Musyamon
 Keramon
 AncientMegatheriummon
@@ -887,7 +887,7 @@ Gwappamon
 Tapirmon
 Generamon
 Lynxmon
-Meicrackmon Vicious Mode[1]
+Meicrackmon
 IceDevimon
 Halsemon
 Elecmon
